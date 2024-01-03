@@ -5,7 +5,7 @@
 ## 3. CSS Flexbox
 ## 4. CSS Grid
 
-[Center](https://github.com/Technikum-Lotnicze-ZDZ-Katowice/320-Center)
+[Center methods](https://github.com/Technikum-Lotnicze-ZDZ-Katowice/320-Center)
 
 ### Links
 - [How the CSS Box Model Works in 2 Minutes](https://www.youtube.com/watch?v=YCsp1nATc2o)
