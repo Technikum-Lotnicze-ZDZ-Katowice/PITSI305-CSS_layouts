@@ -4,6 +4,7 @@
 ## 2. CSS Position
 ## 3. CSS Flexbox
 ## 4. CSS Grid
+## 5. RWD
 
 [Center methods](https://github.com/Technikum-Lotnicze-ZDZ-Katowice/320-Center)
 
