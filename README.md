@@ -2,7 +2,7 @@
 
 ## 1. Box Model (floats)
 
-```html
+```css
 ...
         main{box-sizing:border-box}
         section{
