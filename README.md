@@ -1,6 +1,39 @@
 # 330-CSS_layouts
 
 ## 1. Box Model (floats)
+
+```html
+...
+        main{box-sizing:border-box}
+        section{
+            border:1px solid red;
+        }
+        #header{
+            height:100px;
+        }
+        #left{
+            float:left;
+            height:500px;
+            width:200px;
+        }
+        #right{
+            float:left;
+            height:500px;
+            width:calc(100% - 204px);
+        }
+        #foot{
+            height:50px;
+            clear:both;
+        }
+...
+    <main>
+        <section id="header">HEADER</section>    
+        <section id="left">LEFT</section>
+        <section id="right">RIGHT</section>
+        <section id="foot">FOOTER</section>
+    </main>
+```
+
 ## 2. CSS Position
 ## 3. CSS Flexbox
 ## 4. CSS Grid
