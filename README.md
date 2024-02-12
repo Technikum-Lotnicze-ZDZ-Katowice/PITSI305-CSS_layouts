@@ -1,6 +1,6 @@
 # 330-CSS_layouts
 
-## 1. Box Model
+## 1. Box Model (floats)
 ## 2. CSS Position
 ## 3. CSS Flexbox
 ## 4. CSS Grid
