@@ -4,7 +4,6 @@
 
 ```css
 ...
-        main{box-sizing:border-box}
         section{
             border:1px solid red;
         }
@@ -26,12 +25,10 @@
             clear:both;
         }
 ...
-    <main>
         <section id="header">HEADER</section>    
         <section id="left">LEFT</section>
         <section id="right">RIGHT</section>
         <section id="foot">FOOTER</section>
-    </main>
 ```
 
 ## 2. CSS Position
