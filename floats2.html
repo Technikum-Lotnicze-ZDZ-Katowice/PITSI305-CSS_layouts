@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing: border-box;
+        }
+        html, body{
+            height:100%;
+        }
+        body{
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+        }
+        section{
+            padding:10px; 
+            outline:1px solid red;
+        }
+        section > div {
+            background:grey;
+            border:10px solid green;
+            height:100%;
+        }
+        #s1{float:left;width:30%;height:30%;}
+        #s2{float:left;width:70%;height:30%;}
+        #s3{float:left;width:50%;height:40%;}
+        #s4{float:left;width:50%;height:40%;}
+        #s5{clear:both;height:30%;}
+    </style>
+</head>
+<body>
+    <section id="s1"><div>S1 (w-30% h-30% )</div></section>
+    <section id="s2"><div>S2 (w-70% h-30%)</div></section>
+    <section id="s3"><div>S3 (w-50% h-40%)</div></section>
+    <section id="s4"><div>S4 (w-50% h-40%)</div></section>
+    <section id="s5"><div>S5 (h-30%)</div></section>
+</body>
+</html>
