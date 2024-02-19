@@ -40,7 +40,7 @@
 
 ZAD1:
 
-!(ZAD1)[layoutorg.png]
+!(layoutorg.png)[ZAD1]
 
 [Center methods](https://github.com/Technikum-Lotnicze-ZDZ-Katowice/320-Center)
 
