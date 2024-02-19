@@ -43,6 +43,13 @@ absolute, fixed, relative
 ```
 
 ## 3. CSS Flexbox
+
+```css
+display:flex;
+justify-content:center;
+align-items-center;
+```
+
 ## 4. CSS Grid
 ## 5. RWD
 
