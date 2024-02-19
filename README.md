@@ -36,7 +36,7 @@
 ## 4. CSS Grid
 ## 5. RWD
 
-### ZADANIA
+## -- ZADANIA --
 
 ZAD1:
 
