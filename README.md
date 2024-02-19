@@ -33,6 +33,8 @@
 
 ## 2. CSS Position
 
+absolute, fixed, relative
+
 ```css
             position:absolute;
             top:45%;
