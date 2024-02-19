@@ -32,6 +32,14 @@
 ```
 
 ## 2. CSS Position
+
+```css
+            position:absolute;
+            top:45%;
+            left:45%;
+            translate:-50% -50%;
+```
+
 ## 3. CSS Flexbox
 ## 4. CSS Grid
 ## 5. RWD
