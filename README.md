@@ -36,18 +36,18 @@
 absolute, fixed, relative
 
 ```css
-            position:absolute;
-            top:45%;
-            left:45%;
-            translate:-50% -50%;
+        position:absolute;
+        top:45%;
+        left:45%;
+        translate:-50% -50%;
 ```
 
 ## 3. CSS Flexbox
 
 ```css
-display:flex;
-justify-content:center;
-align-items-center;
+        display:flex;
+        justify-content:center;
+        align-items-center;
 ```
 
 ## 4. CSS Grid
