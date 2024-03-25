@@ -45,12 +45,56 @@ absolute, fixed, relative
 ## 3. CSS Flexbox
 
 ```css
-        display:flex;
+        display:flex; 
         justify-content:center;
         align-items-center;
 ```
 
 ## 4. CSS Grid
+
+```css
+.container{
+  display: grid;
+  grid-template-columns: ...  ...;
+  /* e.g. 
+      1fr 1fr
+      minmax(10px, 1fr) 3fr
+      repeat(5, 1fr)
+      50px auto 100px 1fr
+  */
+  grid-template-rows: ... ...;
+  /* e.g. 
+      min-content 1fr min-content
+      100px 1fr max-content
+  */
+}
+```
+```css
+.item-a {
+  grid-area: header;
+}
+.item-b {
+  grid-area: main;
+}
+.item-c {
+  grid-area: sidebar;
+}
+.item-d {
+  grid-area: footer;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 50px 50px 50px 50px;
+  grid-template-rows: auto;
+  grid-template-areas: 
+    "header header header header"
+    "main main . sidebar"
+    "footer footer footer footer";
+}
+```
+
+
 ## 5. RWD
 
 ## -- ZADANIA --
