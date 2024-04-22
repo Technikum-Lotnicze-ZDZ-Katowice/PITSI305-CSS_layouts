@@ -111,6 +111,17 @@ ZAD3:
 
 ![ZAD3](wezykiem.JPG)
 
+ZAD4:
+Odwzoruj zaproponowany przez siebie szablon przeznaczony dla Wordpress we własnym projekcie.
+
+KRYTERIA OCENY:
+1. Odwzorowanie wyglądu strony (kolory, fonty, layout)
+2. Layout
+3. Zastosowanie znaczników semantycznych
+4. Responsywność
+5. Dziełające podstrony
+6. Animacje CSS
+ 
 [Center methods](https://github.com/Technikum-Lotnicze-ZDZ-Katowice/320-Center)
 
 ### Links
