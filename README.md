@@ -99,19 +99,19 @@ absolute, fixed, relative
 
 ## -- ZADANIA --
 
-ZAD1:
+#### ZAD1:
 
 ![ZAD1](layoutorg.png)
 
-ZAD2:
+#### ZAD2:
 
 ![ZAD2](layouts2.JPG)
 
-ZAD3:
+#### ZAD3:
 
 ![ZAD3](wezykiem.JPG)
 
-ZAD4:
+#### ZAD4:
 Odwzoruj zaproponowany przez siebie szablon przeznaczony dla Wordpress we własnym projekcie.
 
 KRYTERIA OCENY:
