@@ -125,6 +125,7 @@ KRYTERIA OCENY:
 [Center methods](https://github.com/Technikum-Lotnicze-ZDZ-Katowice/320-Center)
 
 ### Links
+- [The Secret Mechanisms of CSS — Web à Québec](https://www.youtube.com/watch?v=kj7WGnUDaI4)
 - [Learn CSS float in 4 minutes!](https://www.youtube.com/watch?v=oJe8G5XT_v4)
 - [How the CSS Box Model Works in 2 Minutes](https://www.youtube.com/watch?v=YCsp1nATc2o)
 - [The Hidden CSS Mistake: Margin Collapse](https://www.youtube.com/watch?v=eZJJPMwG5ec)
