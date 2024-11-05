@@ -134,3 +134,5 @@ KRYTERIA OCENY:
 
 ### Inspirations
 https://github.com/bgstaal/multipleWindow3dScene
+
+https://prod.liveshare.vsengsaas.visualstudio.com/join?11127403E30676A4F0520E572BBBC441C2BF
