@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        html, body{
+            height:100%;
+        } 
+        *{
+            margin:0;
+            padding:0;
+        }
+        #box1{
+            float:left;
+            width:100%;
+            height:25%;
+            background-color:red;
+        }
+        #box2{
+            float:left;
+            margin:10px;
+            width:calc(30% - 40px);
+            height:calc(50% - 20px);
+            background-color:green; 
+        }
+        #box3{
+            float:right;
+            border:10px solid black;
+            width:70%;
+            height:25%;
+            background-color:yellow;
+        }
+        #box4{
+            padding:10px;
+            float:right;            
+            width:70%;
+            height:calc(25% - 40px);
+            background-color:pink;
+        }
+        #box5{
+            float:right;            
+            width:100%;
+            height:25%;
+            background-color:blue;
+        }
+    </style>
+</head>
+<body>
+    <div id="box1">1</div>
+    <div id="box2">Margin = 10px</div>
+    <div id="box3">Border = 10px</div>
+    <div id="box4">Padding = 10px</div>
+    <div id="box5">5</div>
+</body>
+</html>
