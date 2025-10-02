@@ -42,7 +42,7 @@ absolute, fixed, relative
         translate:-50% -50%;
 ```
 
-## 3. CSS Flexbox
+## 3. CSS Flex
 
 ```css
         display:flex; 
